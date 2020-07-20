@@ -1,0 +1,14 @@
+.asset {
+  display: none
+}
+
+.logo {
+  margin-top: 10%;
+  width: 100px;
+  /*position: absolute;*/
+  /*margin:auto;*/
+}
+
+.headerImage {
+  width: 100%;
+}
